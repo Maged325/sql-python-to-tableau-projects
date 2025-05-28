@@ -31,19 +31,16 @@ This project uses the [London Bike shared dataset](https://www.kaggle.com/datase
 
 ## 📑 **Project Structure**
 
-python-tableau-projects/
+This repository contains the following key files:
 
-├── london_bikes.ipynb                 # Jupyter Notebook with Python analysis
-
-├── london_bikes.html                   # Exported HTML version of the notebook
-
-├── london_merged.csv                 # Raw dataset for EDA
-
-├── london_bikes_final.xlsx            # Cleaned dataset used in Tableau
-
-├── London Bike Rides.twbx         # Packaged Tableau workbook
-
-├── London_Bike_Rides_Dashboard.png          # Image preview of the final dashboard
+- `london_bikes.ipynb` — Jupyter Notebook with Python analysis  
+- `london_bikes.html` — Exported HTML version of the notebook  
+- `london_merged.csv` — Raw dataset for EDA  
+- `london_bikes_final.xlsx` — Cleaned dataset used in Tableau  
+- `london_bike_rides.twbx` — Packaged Tableau workbook  
+- `london_bike_rides_dashboard.png` — Dashboard preview image  
+- `README.md` — Project documentation
+> 📂 All files are contained within the `python-tableau-projects` repository.
 
 ---
 
