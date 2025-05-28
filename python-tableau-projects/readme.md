@@ -1,10 +1,10 @@
-# 🚢 London Bike Rides EDA & Dashboard Project — Python + Tableau
+# 🚢 **London Bike Rides EDA & Dashboard Project — *Python + Tableau***
 
 This project showcases an end-to-end data analysis and visualization pipeline using **Python** for Exploratory Data Analysis (EDA) and **Tableau** for creating an interactive dashboard.
 
 ---
 
-## 📌 Project Overview
+## 📌 **Project Overview**
 
 - 🧪 **Performed EDA** on the London Bike Rides dataset using Python (Pandas).
 - 📊 **Built a Tableau dashboard** using cleaned data, combining various visualizations and interactive controls.
@@ -12,7 +12,7 @@ This project showcases an end-to-end data analysis and visualization pipeline us
 
 ---
 
-## 📂 Dataset Source
+## 📂 **Dataset Source**
 
 This project uses the [London Bike shared dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset) from Kaggle.
 
@@ -20,7 +20,7 @@ This project uses the [London Bike shared dataset](https://www.kaggle.com/datase
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 **Tools & Technologies**
 
 - 🐍 Python (Pandas)
 - 📋 Jupyter Notebook (`.ipynb` + exported `.html`)
@@ -29,7 +29,7 @@ This project uses the [London Bike shared dataset](https://www.kaggle.com/datase
 
 ---
 
-## 📑 Project Structure
+## 📑 **Project Structure**
 
 python-tableau-projects
 
@@ -47,9 +47,9 @@ python-tableau-projects
 
 ---
 
-## 📊 Tableau Dashboard Highlights
+## 📊 **Tableau Dashboard Highlights**
 
-#### 📌 Displayed Visualizations:
+#### 📌 **Displayed Visualizations:**
 
 - 🚲 Total Number of Bike Rides
 - 📈 Moving Average Line Chart
@@ -58,7 +58,7 @@ python-tableau-projects
   - Number of Rides by Weather
   - Number of Rides by Hour
 
-## ⚙️ Tableau Features:
+## ⚙️ **Tableau Features:**
 
 - 🗓️ Timeline Filter
 - 🔧 2 User-defined Parameters:
@@ -70,9 +70,10 @@ python-tableau-projects
 
 > 💡 These visuals provide deep insights into ride behavior under different conditions and highlight the impact of weather, time, and duration on user activity.
 
-## 📷 Dashboard Preview
+## 📷 **Dashboard Preview**
 
-![1748435896106](image/readme/1748435896106.png)
+![London_Bike_Rides_ Dashboard](https://github.com/user-attachments/assets/18c68a6f-f1d8-4503-aaaa-4ebcc9221906)
+
 
 ---
 
