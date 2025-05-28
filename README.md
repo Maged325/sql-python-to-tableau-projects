@@ -1,4 +1,4 @@
-# 🚀 **SQL + Python + Tableau Projects**
+# 🚀 **SQL/Python + Tableau Projects**
 
 ### 🔍 This portfolio combines the strengths of **SQL**, **Python**, and **Tableau** to showcase complete, real-world data analysis workflows — from raw data to interactive dashboards.
 
