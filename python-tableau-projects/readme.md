@@ -73,6 +73,11 @@ This repository contains the following key files:
 
 
 ---
+## 🌐 **Live Dashboard Preview**
+
+### 📈 **Want to interact with this dashboard online?**  
+Check it out on **[Tableau Public](https://public.tableau.com/app/profile/maged.fouad/vizzes)**, where I showcase more of my Tableau visualizations.
+
 
 ## 🤝 **Connect with Me**
 
