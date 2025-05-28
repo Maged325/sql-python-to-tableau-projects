@@ -31,7 +31,7 @@ This project uses the [London Bike shared dataset](https://www.kaggle.com/datase
 
 ## 📑 **Project Structure**
 
-python-tableau-projects
+python-tableau-projects/
 
 ├── london_bikes.ipynb                 # Jupyter Notebook with Python analysis
 
